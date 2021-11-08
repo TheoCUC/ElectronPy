@@ -1,0 +1,16 @@
+{
+  "name": "electronpy",
+  "version": "0.0.0",
+  "description": "A test project for electron with python",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "isaac",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.3.0",
+    "electron-packager": "^15.4.0",
+    "thrift": "^0.15.0"
+  }
+}
